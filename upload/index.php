@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<titleMK_CODER</title>
+	<title>college stuff</title>
 </head>
 <body>
 
