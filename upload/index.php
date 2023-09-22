@@ -11,7 +11,7 @@ if(isset($_POST['submit'])){
 	$tmpname = $_FILES['file']['tmp_name'];
 	$filesize = $_FILES['file']['size'];
 	$filetype = $_FILES['file']['type'];
-	$folder = 'upload/';
+	$folder = './';
 
 	move_uploaded_file($tmpname, $folder.$filename);
 
